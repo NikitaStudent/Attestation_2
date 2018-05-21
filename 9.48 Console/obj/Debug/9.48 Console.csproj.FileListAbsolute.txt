@@ -1,0 +1,22 @@
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.48 Console\bin\Debug\9.49 Console.exe.config
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.48 Console\bin\Debug\9.49 Console.exe
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.48 Console\bin\Debug\9.49 Console.pdb
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.48 Console\bin\Debug\tools.dll
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.48 Console\bin\Debug\ToolsConsole.dll
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.48 Console\bin\Debug\ToolsConsole.pdb
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.48 Console\bin\Debug\tools.pdb
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.48 Console\obj\Debug\9.48 Console.csprojResolveAssemblyReference.cache
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.48 Console\obj\Debug\9.48 Console.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.48 Console\obj\Debug\9.49 Console.exe
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.48 Console\obj\Debug\9.49 Console.pdb
+C:\Users\Никита\Desktop\att2-KN-master\9.48 Console\bin\Debug\9.49 Console.exe.config
+C:\Users\Никита\Desktop\att2-KN-master\9.48 Console\bin\Debug\9.49 Console.exe
+C:\Users\Никита\Desktop\att2-KN-master\9.48 Console\bin\Debug\9.49 Console.pdb
+C:\Users\Никита\Desktop\att2-KN-master\9.48 Console\bin\Debug\tools.dll
+C:\Users\Никита\Desktop\att2-KN-master\9.48 Console\bin\Debug\ToolsConsole.dll
+C:\Users\Никита\Desktop\att2-KN-master\9.48 Console\bin\Debug\ToolsConsole.pdb
+C:\Users\Никита\Desktop\att2-KN-master\9.48 Console\bin\Debug\tools.pdb
+C:\Users\Никита\Desktop\att2-KN-master\9.48 Console\obj\Debug\9.48 Console.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\att2-KN-master\9.48 Console\obj\Debug\9.48 Console.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\att2-KN-master\9.48 Console\obj\Debug\9.49 Console.exe
+C:\Users\Никита\Desktop\att2-KN-master\9.48 Console\obj\Debug\9.49 Console.pdb

@@ -1,0 +1,11 @@
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.17 console\bin\Debug\9.18 console.exe.config
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.17 console\bin\Debug\9.18 console.exe
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.17 console\bin\Debug\9.18 console.pdb
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.17 console\bin\Debug\tools.dll
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.17 console\bin\Debug\ToolsConsole.dll
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.17 console\bin\Debug\ToolsConsole.pdb
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.17 console\bin\Debug\tools.pdb
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.17 console\obj\Debug\9.17 console.csprojResolveAssemblyReference.cache
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.17 console\obj\Debug\9.17 console.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.17 console\obj\Debug\9.18 console.exe
+C:\Users\sidad\Desktop\people\KojevnikovN\att2\9.17 console\obj\Debug\9.18 console.pdb
